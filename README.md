@@ -1,11 +1,11 @@
 ![Moi](img/banniere.png)
-<h1 align="center"> Frédéric CANAUD </h1>
+<h1 align="center"> Frédéric CANAUD 😄 </h1>
 <hr>
 
 <h4 align="center"> Étudiant en Licence 3 Informatique à Limoges, en vue du Master CRYPTIS 🎓 </h4>
 <h4 align="center"> Je suis passionné par le développement web et la sécurité informatique. </h4>
 
-<h4 align="center"> 🌐 Tu peux aussi me retrouver sur mon <a href="https://fredericcanaud.github.io">portfolio</a> ! </h4>
+<h4 align="center"> 🌐 Tu peux aussi me retrouver sur mon <a href="https://fredericcanaud.github.io">portfolio</a> et mon <a href="https://www.linkedin.com/in/frederic-canaud/">Linkedin</a> ! </h4>
 
 <hr>
 
