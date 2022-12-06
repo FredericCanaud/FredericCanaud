@@ -2,7 +2,7 @@
 <h1 align="center"> Frédéric CANAUD 😄 </h1>
 <hr>
 
-<h4 align="center"> Étudiant en première année du master CRYPTIS 🎓 </h4>
+<h4 align="center"> Étudiant en deuxième année du master CRYPTIS 🎓 </h4>
 <h4 align="center"> Je suis passionné par la sécurité informatique et le développement web </h4>
 
 <h4 align="center"> 🌐 Tu peux aussi me retrouver sur mon <a href="https://fredericcanaud.github.io">portfolio</a> et mon <a href="https://www.linkedin.com/in/frederic-canaud/">Linkedin</a> ! </h4>
